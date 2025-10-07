@@ -1,0 +1,66 @@
+path {
+    stroke: black;
+    fill: lightblue;
+}
+
+
+path:hover {    
+    opacity: 0.5;
+    stroke-width: 3px;
+}
+
+path[id^="A"] {
+    fill:skyblue;
+}
+path[id^="N"] {
+    fill:deepskyblue;
+}
+path[id^="M"] {
+    fill:cornflowerblue;
+}
+path[id^="C"] {
+fill:steelblue;
+}
+path[id^="O"] {
+    fill:royalblue;
+}
+path[id^="I"] {
+    fill:blue;
+}
+
+/*
+path[id^="A"] {
+    fill: red;
+}
+path[id^="N"] {
+    fill: yellow;
+}
+path[id^="M"] {
+    fill: green;
+}
+path[id^="C"] {
+fill: blue;
+}
+path[id^="O"] {
+    fill: purple;
+}
+path[id^="I"] {
+    fill: orange;
+}
+
+
+
+path[id="WY"] {
+    fill: url(#blueGradient);
+}
+
+path[id="TX"] {
+    fill: url(#TXflag);      
+}
+
+path {
+    transform-style: preserve-3d;    
+    perspective: 200px;
+}
+
+*/
