@@ -1,0 +1,25 @@
+rect{
+    fill: teal;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+circle{
+    fill: orangered;
+}
+
+circle.second{
+    fill: tan;
+    stroke: orangered;
+    stroke-width: 3px;
+}
+
+ellipse{
+    fill: yellowgreen;
+}
+
+svg{
+    border: 1px solid black;
+    padding: 10px;
+}
+

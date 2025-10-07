@@ -1,0 +1,27 @@
+/* style html element */
+html{
+  background-color: ghostwhite;
+}
+
+/* style body element */
+body{
+    background-color: azure;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid teal;
+    font-size: 16pt; 
+    min-height: 700px;   
+}
+
+/* style an element with id="animate" */
+#animate{
+  position: relative;
+  margin: 20px 0px;
+  width: 50px;
+  height: 50px;  
+  background-color: sandybrown;
+  visibility: hidden;
+  opacity: 1.0;
+} 
+
